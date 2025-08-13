@@ -2,3 +2,4 @@ Cambio de prueba
 Cambio numero 2
 10/04/2025
 clase 2503 primer commit
+clase 2503 segundo commit en github
